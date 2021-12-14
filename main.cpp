@@ -22,5 +22,8 @@ int main()
         cout << "n=";
         cin >> n;
     }while(n<1);
+    /*
+    ajotu pour ormation POEC PHP pour appr Git
+    */
 
 }
